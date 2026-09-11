@@ -236,3 +236,6 @@ This repository serves as the official landing page for Naval Strike. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Naval Strike today!**
+
+---
+**Last updated:** 2026-09-11 17:36:44 UTC
